@@ -1,0 +1,336 @@
+,event,host_city,year,host_country,artist,song,artist_country,running_order,total_points,rank,rank_ordinal,qualified,winner
+35,Turin 2022,Turin,2022,Italy,Sam Ryder,space_man,United Kingdom,22.0,466.0,2.0,2nd,False,False
+36,Turin 2022,Turin,2022,Italy,Chanel,slomo,Spain,10.0,459.0,3.0,3rd,False,False
+37,Turin 2022,Turin,2022,Italy,Mahmood & BLANCO,brividi,Italy,9.0,268.0,6.0,6th,False,False
+38,Turin 2022,Turin,2022,Italy,Alvan & Ahez,fulenn,France,6.0,17.0,24.0,24th,False,False
+39,Turin 2022,Turin,2022,Italy,Malik Harris,rockstars,Germany,13.0,6.0,25.0,25th,False,False
+40,Turin 2022,Turin,2022,Italy,Kalush Orchestra,stefania,Ukraine,12.0,631.0,1.0,1st,False,True
+41,Turin 2022,Turin,2022,Italy,S10,de_diepte,Netherlands,11.0,171.0,11.0,11th,False,False
+42,Turin 2022,Turin,2022,Italy,Ochman,river,Poland,23.0,151.0,12.0,12th,False,False
+43,Turin 2022,Turin,2022,Italy,Stefan,hope,Estonia,25.0,141.0,13.0,13th,False,False
+44,Turin 2022,Turin,2022,Italy,Monika Liu,sentimentai,Lithuania,14.0,128.0,14.0,14th,False,False
+45,Turin 2022,Turin,2022,Italy,Sheldon Riley,not_the_same,Australia,21.0,125.0,15.0,15th,False,False
+46,Turin 2022,Turin,2022,Italy,Nadir Rustamli,fade_to_black,Azerbaijan,15.0,106.0,16.0,16th,False,False
+47,Turin 2022,Turin,2022,Italy,Marius Bear,boys_do_cry,Switzerland,5.0,78.0,17.0,17th,False,False
+48,Turin 2022,Turin,2022,Italy,WRS,llámame,Romania,2.0,65.0,18.0,18th,False,False
+49,Turin 2022,Turin,2022,Italy,Jérémie Makiese,miss_you,Belgium,16.0,64.0,19.0,19th,False,False
+50,Turin 2022,Turin,2022,Italy,Cornelia Jakobs,hold_me_closer,Sweden,20.0,438.0,4.0,4th,False,False
+51,Turin 2022,Turin,2022,Italy,Konstrakta,in_corpore_sano,Serbia,24.0,312.0,5.0,5th,False,False
+52,Turin 2022,Turin,2022,Italy,Zdob şi Zdub & Advahov Brothers,trenulețul,Moldova,19.0,253.0,7.0,7th,False,False
+53,Turin 2022,Turin,2022,Italy,Amanda Georgiadi Tenfjord,die_together,Greece,17.0,215.0,8.0,8th,False,False
+54,Turin 2022,Turin,2022,Italy,MARO,"saudade,_saudade",Portugal,3.0,207.0,9.0,9th,False,False
+55,Turin 2022,Turin,2022,Italy,Subwoolfer,give_that_wolf_a_banana,Norway,7.0,182.0,10.0,10th,False,False
+56,Turin 2022,Turin,2022,Italy,Rosa Linn,snap,Armenia,8.0,61.0,20.0,20th,False,False
+57,Turin 2022,Turin,2022,Italy,The Rasmus,jezebel,Finland,4.0,38.0,21.0,21st,False,False
+58,Turin 2022,Turin,2022,Italy,We Are Domi,lights_off,Czech Republic,1.0,38.0,22.0,22nd,False,False
+59,Turin 2022,Turin,2022,Italy,Systur,með_hækkandi_sól,Iceland,18.0,20.0,23.0,23rd,False,False
+93,Rotterdam 2021,Rotterdam,2021,Netherlands,Måneskin,zitti_e_buoni,Italy,24.0,524.0,1.0,1st,False,True
+94,Rotterdam 2021,Rotterdam,2021,Netherlands,Barbara Pravi,voilà,France,20.0,499.0,2.0,2nd,False,False
+95,Rotterdam 2021,Rotterdam,2021,Netherlands,Go_A,shum,Ukraine,19.0,364.0,5.0,5th,False,False
+96,Rotterdam 2021,Rotterdam,2021,Netherlands,Destiny,je_me_casse,Malta,6.0,255.0,7.0,7th,False,False
+97,Rotterdam 2021,Rotterdam,2021,Netherlands,The Roop,discoteque,Lithuania,18.0,220.0,8.0,8th,False,False
+98,Rotterdam 2021,Rotterdam,2021,Netherlands,Manizha,russian_woman,Russia,5.0,204.0,9.0,9th,False,False
+99,Rotterdam 2021,Rotterdam,2021,Netherlands,VICTORIA,growing_up_is_getting_old,Bulgaria,17.0,170.0,11.0,11th,False,False
+100,Rotterdam 2021,Rotterdam,2021,Netherlands,Tusse,voices,Sweden,25.0,109.0,14.0,14th,False,False
+101,Rotterdam 2021,Rotterdam,2021,Netherlands,Hurricane,loco_loco,Serbia,8.0,102.0,15.0,15th,False,False
+102,Rotterdam 2021,Rotterdam,2021,Netherlands,Elena Tsagrinou,el_diablo,Cyprus,1.0,94.0,16.0,16th,False,False
+103,Rotterdam 2021,Rotterdam,2021,Netherlands,Eden Alene,set_me_free,Israel,3.0,93.0,17.0,17th,False,False
+104,Rotterdam 2021,Rotterdam,2021,Netherlands,TIX,fallen_angel,Norway,22.0,75.0,18.0,18th,False,False
+105,Rotterdam 2021,Rotterdam,2021,Netherlands,Hooverphonic,the_wrong_place,Belgium,4.0,74.0,19.0,19th,False,False
+106,Rotterdam 2021,Rotterdam,2021,Netherlands,Efendi,mata_hari,Azerbaijan,21.0,65.0,20.0,20th,False,False
+107,Rotterdam 2021,Rotterdam,2021,Netherlands,Jeangu Macrooy,birth_of_a_new_age,Netherlands,23.0,11.0,23.0,23rd,False,False
+108,Rotterdam 2021,Rotterdam,2021,Netherlands,Daði og Gagnamagnið,10_years,Iceland,12.0,378.0,4.0,4th,False,False
+109,Rotterdam 2021,Rotterdam,2021,Netherlands,Blind Channel,dark_side,Finland,16.0,301.0,6.0,6th,False,False
+110,Rotterdam 2021,Rotterdam,2021,Netherlands,Stefania,last_dance,Greece,10.0,170.0,10.0,10th,False,False
+111,Rotterdam 2021,Rotterdam,2021,Netherlands,The Black Mamba,love_is_on_my_side,Portugal,7.0,153.0,12.0,12th,False,False
+112,Rotterdam 2021,Rotterdam,2021,Netherlands,Natalia Gordienko,sugar,Moldova,14.0,115.0,13.0,13th,False,False
+113,Rotterdam 2021,Rotterdam,2021,Netherlands,Senhit,adrenalina,San Marino,26.0,50.0,22.0,22nd,False,False
+114,Rotterdam 2021,Rotterdam,2021,Netherlands,Gjon's Tears,tout_l'univers,Switzerland,11.0,432.0,3.0,3rd,False,False
+115,Rotterdam 2021,Rotterdam,2021,Netherlands,Anxhela Peristeri,karma,Albania,2.0,57.0,21.0,21st,False,False
+116,Rotterdam 2021,Rotterdam,2021,Netherlands,Blas Cantó,voy_a_quedarme,Spain,13.0,6.0,24.0,24th,False,False
+117,Rotterdam 2021,Rotterdam,2021,Netherlands,Jendrik,i_don't_feel_hate,Germany,15.0,3.0,25.0,25th,False,False
+118,Rotterdam 2021,Rotterdam,2021,Netherlands,James Newman,embers,United Kingdom,9.0,0.0,26.0,26th,False,False
+195,Tel Aviv 2019,Tel Aviv,2019,Israel,Mahmood,soldi,Italy,22.0,472.0,2.0,2nd,False,False
+196,Tel Aviv 2019,Tel Aviv,2019,Israel,Miki,la_venda,Spain,26.0,54.0,22.0,22nd,False,False
+197,Tel Aviv 2019,Tel Aviv,2019,Israel,Kobi Marimi,home,Israel,14.0,35.0,23.0,23rd,False,False
+198,Tel Aviv 2019,Tel Aviv,2019,Israel,Michael Rice,bigger_than_us,United Kingdom,16.0,11.0,26.0,26th,False,False
+199,Tel Aviv 2019,Tel Aviv,2019,Israel,Kate Miller-Heidke,zero_gravity,Australia,25.0,284.0,9.0,9th,False,False
+200,Tel Aviv 2019,Tel Aviv,2019,Israel,Luca Hänni,she_got_me,Switzerland,24.0,364.0,4.0,4th,False,False
+201,Tel Aviv 2019,Tel Aviv,2019,Israel,John Lundvik,too_late_for_love,Sweden,9.0,334.0,5.0,5th,False,False
+202,Tel Aviv 2019,Tel Aviv,2019,Israel,KEiiNO,spirit_in_the_sky,Norway,15.0,331.0,6.0,6th,False,False
+203,Tel Aviv 2019,Tel Aviv,2019,Israel,Tamara Todevska,proud,North Macedonia,8.0,305.0,7.0,7th,False,False
+204,Tel Aviv 2019,Tel Aviv,2019,Israel,Chingiz,truth,Azerbaijan,20.0,302.0,8.0,8th,False,False
+205,Tel Aviv 2019,Tel Aviv,2019,Israel,Hatari,hatrið_mun_sigra,Iceland,17.0,232.0,10.0,10th,False,False
+206,Tel Aviv 2019,Tel Aviv,2019,Israel,Tamta,replay,Cyprus,11.0,109.0,13.0,13th,False,False
+207,Tel Aviv 2019,Tel Aviv,2019,Israel,Michela,chameleon,Malta,1.0,107.0,14.0,14th,False,False
+208,Tel Aviv 2019,Tel Aviv,2019,Israel,Zala Kralj & Gašper Šantl,sebi,Slovenia,10.0,105.0,15.0,15th,False,False
+209,Tel Aviv 2019,Tel Aviv,2019,Israel,Bilal Hassani,roi,France,21.0,105.0,16.0,16th,False,False
+210,Tel Aviv 2019,Tel Aviv,2019,Israel,Lake Malawi,friend_of_a_friend,Czech Republic,3.0,157.0,11.0,11th,False,False
+211,Tel Aviv 2019,Tel Aviv,2019,Israel,Leonora,love_is_forever,Denmark,6.0,120.0,12.0,12th,False,False
+212,Tel Aviv 2019,Tel Aviv,2019,Israel,Duncan Laurence,arcade,Netherlands,12.0,498.0,1.0,1st,False,True
+213,Tel Aviv 2019,Tel Aviv,2019,Israel,Sergey Lazarev,scream,Russia,5.0,370.0,3.0,3rd,False,False
+214,Tel Aviv 2019,Tel Aviv,2019,Israel,Jonida Maliqi,ktheju_tokës,Albania,2.0,90.0,17.0,17th,False,False
+215,Tel Aviv 2019,Tel Aviv,2019,Israel,Nevena Božović,kruna,Serbia,23.0,89.0,18.0,18th,False,False
+216,Tel Aviv 2019,Tel Aviv,2019,Israel,Serhat,say_na_na_na,San Marino,7.0,77.0,19.0,19th,False,False
+217,Tel Aviv 2019,Tel Aviv,2019,Israel,Victor Crone,storm,Estonia,18.0,76.0,20.0,20th,False,False
+218,Tel Aviv 2019,Tel Aviv,2019,Israel,Katerine Duska,better_love,Greece,13.0,74.0,21.0,21st,False,False
+219,Tel Aviv 2019,Tel Aviv,2019,Israel,ZENA,like_it,Belarus,19.0,31.0,24.0,24th,False,False
+220,Tel Aviv 2019,Tel Aviv,2019,Israel,S!sters,sister,Germany,4.0,24.0,25.0,25th,False,False
+258,Lisbon 2018,Lisbon,2018,Portugal,Waylon,outlaw_in_'em,Netherlands,23.0,121.0,18.0,18th,False,False
+259,Lisbon 2018,Lisbon,2018,Portugal,DoReDoS,my_lucky_day,Moldova,19.0,209.0,10.0,10th,False,False
+260,Lisbon 2018,Lisbon,2018,Portugal,MELOVIN,under_the_ladder,Ukraine,1.0,130.0,17.0,17th,False,False
+261,Lisbon 2018,Lisbon,2018,Portugal,Alexander Rybak,that's_how_you_write_a_song,Norway,7.0,144.0,15.0,15th,False,False
+262,Lisbon 2018,Lisbon,2018,Portugal,Lea Sirk,"hvala,_ne!",Slovenia,3.0,64.0,22.0,22nd,False,False
+263,Lisbon 2018,Lisbon,2018,Portugal,Elina Nechayeva,la_forza,Estonia,6.0,245.0,8.0,8th,False,False
+264,Lisbon 2018,Lisbon,2018,Portugal,Netta,toy,Israel,22.0,529.0,1.0,1st,False,True
+265,Lisbon 2018,Lisbon,2018,Portugal,Jessica Mauboy,we_got_love,Australia,16.0,99.0,20.0,20th,False,False
+266,Lisbon 2018,Lisbon,2018,Portugal,Rasmussen,higher_ground,Denmark,15.0,226.0,9.0,9th,False,False
+267,Lisbon 2018,Lisbon,2018,Portugal,Sanja Ilić & Balkanika,nova_deca,Serbia,10.0,113.0,19.0,19th,False,False
+268,Lisbon 2018,Lisbon,2018,Portugal,Mikolas Josef,lie_to_me,Czech Republic,14.0,281.0,6.0,6th,False,False
+269,Lisbon 2018,Lisbon,2018,Portugal,Eleni Foureira,fuego,Cyprus,25.0,436.0,2.0,2nd,False,False
+270,Lisbon 2018,Lisbon,2018,Portugal,Ryan O'Shaughnessy,together,Ireland,24.0,136.0,16.0,16th,False,False
+271,Lisbon 2018,Lisbon,2018,Portugal,Eugent Bushpepa,mall,Albania,12.0,184.0,11.0,11th,False,False
+272,Lisbon 2018,Lisbon,2018,Portugal,AWS,viszlát_nyár,Hungary,21.0,93.0,21.0,21st,False,False
+273,Lisbon 2018,Lisbon,2018,Portugal,Benjamin Ingrosso,dance_you_off,Sweden,20.0,274.0,7.0,7th,False,False
+274,Lisbon 2018,Lisbon,2018,Portugal,Ieva Zasimauskaitė,when_we're_old,Lithuania,4.0,181.0,12.0,12th,False,False
+275,Lisbon 2018,Lisbon,2018,Portugal,Cesár Sampson,nobody_but_you,Austria,5.0,342.0,3.0,3rd,False,False
+276,Lisbon 2018,Lisbon,2018,Portugal,EQUINOX,bones,Bulgaria,18.0,166.0,14.0,14th,False,False
+277,Lisbon 2018,Lisbon,2018,Portugal,Saara Aalto,monsters,Finland,17.0,46.0,25.0,25th,False,False
+278,Lisbon 2018,Lisbon,2018,Portugal,Cláudia Pascoal,o_jardim,Portugal,8.0,39.0,26.0,26th,False,False
+279,Lisbon 2018,Lisbon,2018,Portugal,SuRie,storm,United Kingdom,9.0,48.0,24.0,24th,False,False
+280,Lisbon 2018,Lisbon,2018,Portugal,Amaia y Alfred,tu_canción,Spain,2.0,61.0,23.0,23rd,False,False
+281,Lisbon 2018,Lisbon,2018,Portugal,Ermal Meta e Fabrizio Moro,non_mi_avete_fatto_niente,Italy,26.0,308.0,5.0,5th,False,False
+282,Lisbon 2018,Lisbon,2018,Portugal,Madame Monsieur,mercy,France,13.0,173.0,13.0,13th,False,False
+283,Lisbon 2018,Lisbon,2018,Portugal,Michael Schulte,you_let_me_walk_alone,Germany,11.0,340.0,4.0,4th,False,False
+320,Kyiv 2017,Kyiv,2017,Ukraine,Alma,requiem,France,26.0,135.0,12.0,12th,False,False
+321,Kyiv 2017,Kyiv,2017,Ukraine,Levina,perfect_life,Germany,21.0,6.0,25.0,25th,False,False
+322,Kyiv 2017,Kyiv,2017,Ukraine,Manel Navarro,do_it_for_your_lover,Spain,16.0,5.0,26.0,26th,False,False
+323,Kyiv 2017,Kyiv,2017,Ukraine,Lucie Jones,never_give_up_on_you,United Kingdom,18.0,111.0,15.0,15th,False,False
+324,Kyiv 2017,Kyiv,2017,Ukraine,Francesco Gabbani,occidentali's_karma,Italy,9.0,334.0,6.0,6th,False,False
+325,Kyiv 2017,Kyiv,2017,Ukraine,O.Torvald,time,Ukraine,22.0,36.0,24.0,24th,False,False
+326,Kyiv 2017,Kyiv,2017,Ukraine,Kasia Moś,flashlight,Poland,2.0,64.0,22.0,22nd,False,False
+327,Kyiv 2017,Kyiv,2017,Ukraine,Demy,this_is_love,Greece,15.0,77.0,19.0,19th,False,False
+328,Kyiv 2017,Kyiv,2017,Ukraine,Sunstroke Project,hey_mamma,Moldova,7.0,374.0,3.0,3rd,False,False
+329,Kyiv 2017,Kyiv,2017,Ukraine,Artsvik,fly_with_me,Armenia,5.0,79.0,18.0,18th,False,False
+330,Kyiv 2017,Kyiv,2017,Ukraine,Robin Bengtsson,i_can't_go_on,Sweden,24.0,344.0,5.0,5th,False,False
+331,Kyiv 2017,Kyiv,2017,Ukraine,Blanche,city_lights,Belgium,23.0,363.0,4.0,4th,False,False
+332,Kyiv 2017,Kyiv,2017,Ukraine,Isaiah,don't_come_easy,Australia,14.0,173.0,9.0,9th,False,False
+333,Kyiv 2017,Kyiv,2017,Ukraine,Dihaj,skeletons,Azerbaijan,12.0,120.0,14.0,14th,False,False
+334,Kyiv 2017,Kyiv,2017,Ukraine,Hovig,gravity,Cyprus,19.0,68.0,21.0,21st,False,False
+335,Kyiv 2017,Kyiv,2017,Ukraine,Salvador Sobral,amar_pelos_dois,Portugal,11.0,758.0,1.0,1st,False,True
+336,Kyiv 2017,Kyiv,2017,Ukraine,JOWST,grab_the_moment,Norway,17.0,158.0,10.0,10th,False,False
+337,Kyiv 2017,Kyiv,2017,Ukraine,Naviband,story_of_my_life,Belarus,3.0,83.0,17.0,17th,False,False
+338,Kyiv 2017,Kyiv,2017,Ukraine,Jacques Houdek,my_friend,Croatia,13.0,128.0,13.0,13th,False,False
+339,Kyiv 2017,Kyiv,2017,Ukraine,Kristian Kostov,beautiful_mess,Bulgaria,25.0,615.0,2.0,2nd,False,False
+340,Kyiv 2017,Kyiv,2017,Ukraine,IMRI,i_feel_alive,Israel,1.0,39.0,23.0,23rd,False,False
+341,Kyiv 2017,Kyiv,2017,Ukraine,Nathan Trent,running_on_air,Austria,4.0,93.0,16.0,16th,False,False
+342,Kyiv 2017,Kyiv,2017,Ukraine,Joci Pápai,origo,Hungary,8.0,200.0,8.0,8th,False,False
+343,Kyiv 2017,Kyiv,2017,Ukraine,Ilinca ft. Alex Florea,yodel_it!,Romania,20.0,282.0,7.0,7th,False,False
+344,Kyiv 2017,Kyiv,2017,Ukraine,Anja,where_i_am,Denmark,10.0,77.0,20.0,20th,False,False
+345,Kyiv 2017,Kyiv,2017,Ukraine,OG3NE,lights_and_shadows,Netherlands,6.0,150.0,11.0,11th,False,False
+382,Stockholm 2016,Stockholm,2016,Sweden,Sanja Vučić ZAA,goodbye_(shelter),Serbia,15.0,115.0,18.0,18th,False,False
+383,Stockholm 2016,Stockholm,2016,Sweden,Michał Szpak,color_of_your_life,Poland,12.0,229.0,8.0,8th,False,False
+384,Stockholm 2016,Stockholm,2016,Sweden,Laura Tesoro,what's_the_pressure,Belgium,1.0,181.0,10.0,10th,False,False
+385,Stockholm 2016,Stockholm,2016,Sweden,Jamala,1944,Ukraine,21.0,534.0,1.0,1st,False,True
+386,Stockholm 2016,Stockholm,2016,Sweden,Donny Montell,i've_been_waiting_for_this_night,Lithuania,16.0,200.0,9.0,9th,False,False
+387,Stockholm 2016,Stockholm,2016,Sweden,Dami Im,sound_of_silence,Australia,13.0,511.0,2.0,2nd,False,False
+388,Stockholm 2016,Stockholm,2016,Sweden,Nika Kocharov and Young Georgian Lolitaz,midnight_gold,Georgia,23.0,104.0,20.0,20th,False,False
+389,Stockholm 2016,Stockholm,2016,Sweden,Poli Genova,if_love_was_a_crime,Bulgaria,8.0,307.0,4.0,4th,False,False
+390,Stockholm 2016,Stockholm,2016,Sweden,Justs,heartbeat,Latvia,20.0,132.0,15.0,15th,False,False
+391,Stockholm 2016,Stockholm,2016,Sweden,Hovi Star,made_of_stars,Israel,7.0,135.0,14.0,14th,False,False
+392,Stockholm 2016,Stockholm,2016,Sweden,ZOË,loin_d'ici,Austria,24.0,151.0,13.0,13th,False,False
+393,Stockholm 2016,Stockholm,2016,Sweden,Douwe Bob,slow_down,Netherlands,3.0,153.0,11.0,11th,False,False
+394,Stockholm 2016,Stockholm,2016,Sweden,Sergey Lazarev,you_are_the_only_one,Russia,18.0,491.0,3.0,3rd,False,False
+395,Stockholm 2016,Stockholm,2016,Sweden,Freddie,pioneer,Hungary,5.0,108.0,19.0,19th,False,False
+396,Stockholm 2016,Stockholm,2016,Sweden,Gabriela Gunčíková,i_stand,Czech Republic,2.0,41.0,25.0,25th,False,False
+397,Stockholm 2016,Stockholm,2016,Sweden,Iveta Mukuchyan,lovewave,Armenia,26.0,249.0,7.0,7th,False,False
+398,Stockholm 2016,Stockholm,2016,Sweden,Ira Losco,walk_on_water,Malta,22.0,153.0,12.0,12th,False,False
+399,Stockholm 2016,Stockholm,2016,Sweden,Minus One,alter_ego,Cyprus,14.0,96.0,21.0,21st,False,False
+400,Stockholm 2016,Stockholm,2016,Sweden,Nina Kraljić,lighthouse,Croatia,17.0,73.0,23.0,23rd,False,False
+401,Stockholm 2016,Stockholm,2016,Sweden,Samra,miracle,Azerbaijan,4.0,117.0,17.0,17th,False,False
+402,Stockholm 2016,Stockholm,2016,Sweden,Joe and Jake,you're_not_alone,United Kingdom,25.0,62.0,24.0,24th,False,False
+403,Stockholm 2016,Stockholm,2016,Sweden,Amir,j'ai_cherché,France,11.0,257.0,6.0,6th,False,False
+404,Stockholm 2016,Stockholm,2016,Sweden,Francesca Michielin,no_degree_of_separation,Italy,6.0,124.0,16.0,16th,False,False
+405,Stockholm 2016,Stockholm,2016,Sweden,Barei,say_yay!,Spain,19.0,77.0,22.0,22nd,False,False
+406,Stockholm 2016,Stockholm,2016,Sweden,Jamie-Lee,ghost,Germany,10.0,11.0,26.0,26th,False,False
+407,Stockholm 2016,Stockholm,2016,Sweden,Frans,if_i_were_sorry,Sweden,9.0,261.0,5.0,5th,False,False
+441,Vienna 2015,Vienna,2015,Austria,Guy Sebastian,tonight_again,Australia,12.0,196.0,5.0,5th,False,False
+442,Vienna 2015,Vienna,2015,Austria,Edurne,amanecer,Spain,21.0,15.0,21.0,21st,False,False
+443,Vienna 2015,Vienna,2015,Austria,Lisa Angell,n'oubliez_pas,France,2.0,4.0,25.0,25th,False,False
+444,Vienna 2015,Vienna,2015,Austria,Il Volo,grande_amore,Italy,27.0,292.0,3.0,3rd,False,False
+445,Vienna 2015,Vienna,2015,Austria,Electro Velvet,still_in_love_with_you,United Kingdom,5.0,5.0,24.0,24th,False,False
+446,Vienna 2015,Vienna,2015,Austria,Genealogy,face_the_shadow,Armenia,6.0,34.0,16.0,16th,False,False
+447,Vienna 2015,Vienna,2015,Austria,Boggie,wars_for_nothing,Hungary,22.0,19.0,20.0,20th,False,False
+448,Vienna 2015,Vienna,2015,Austria,Loïc Nottet,rhythm_inside,Belgium,13.0,217.0,4.0,4th,False,False
+449,Vienna 2015,Vienna,2015,Austria,Nina Sublatti,warrior,Georgia,23.0,51.0,11.0,11th,False,False
+450,Vienna 2015,Vienna,2015,Austria,Elhaida Dani,i'm_alive,Albania,26.0,34.0,17.0,17th,False,False
+451,Vienna 2015,Vienna,2015,Austria,Polina Gagarina,a_million_voices,Russia,25.0,303.0,2.0,2nd,False,False
+452,Vienna 2015,Vienna,2015,Austria,Elina Born & Stig Rästa,goodbye_to_yesterday,Estonia,4.0,106.0,7.0,7th,False,False
+453,Vienna 2015,Vienna,2015,Austria,Voltaj,de_la_capat/_all_over_again,Romania,20.0,35.0,15.0,15th,False,False
+454,Vienna 2015,Vienna,2015,Austria,Maria Elena Kyriakou,one_last_breath,Greece,15.0,23.0,19.0,19th,False,False
+455,Vienna 2015,Vienna,2015,Austria,Bojana Stamenov,beauty_never_lies,Serbia,8.0,53.0,10.0,10th,False,False
+456,Vienna 2015,Vienna,2015,Austria,Måns Zelmerlöw,heroes,Sweden,10.0,365.0,1.0,1st,False,True
+457,Vienna 2015,Vienna,2015,Austria,Knez,adio,Montenegro,16.0,44.0,13.0,13th,False,False
+458,Vienna 2015,Vienna,2015,Austria,The Makemakes,i_am_yours,Austria,14.0,0.0,26.0,26th,False,False
+459,Vienna 2015,Vienna,2015,Austria,Ann Sophie,black_smoke,Germany,17.0,0.0,27.0,27th,False,False
+460,Vienna 2015,Vienna,2015,Austria,John Karayiannis,one_thing_i_should_have_done,Cyprus,11.0,11.0,22.0,22nd,False,False
+461,Vienna 2015,Vienna,2015,Austria,Nadav Guedj,golden_boy,Israel,3.0,97.0,9.0,9th,False,False
+462,Vienna 2015,Vienna,2015,Austria,Monika Kuszyńska,in_the_name_of_love,Poland,18.0,10.0,23.0,23rd,False,False
+463,Vienna 2015,Vienna,2015,Austria,Monika Linkytė and Vaidas Baumila,this_time,Lithuania,7.0,30.0,18.0,18th,False,False
+464,Vienna 2015,Vienna,2015,Austria,Aminata,love_injected,Latvia,19.0,186.0,6.0,6th,False,False
+465,Vienna 2015,Vienna,2015,Austria,Maraaya,here_for_you,Slovenia,1.0,39.0,14.0,14th,False,False
+466,Vienna 2015,Vienna,2015,Austria,Elnur Huseynov,hour_of_the_wolf,Azerbaijan,24.0,49.0,12.0,12th,False,False
+467,Vienna 2015,Vienna,2015,Austria,Mørland & Debrah Scarlett,a_monster_like_me,Norway,9.0,102.0,8.0,8th,False,False
+499,Copenhagen 2014,Copenhagen,2014,Denmark,Molly,children_of_the_universe,United Kingdom,26.0,40.0,17.0,17th,False,False
+500,Copenhagen 2014,Copenhagen,2014,Denmark,Emma,la_mia_città,Italy,16.0,33.0,21.0,21st,False,False
+501,Copenhagen 2014,Copenhagen,2014,Denmark,Elaiza,is_it_right,Germany,12.0,39.0,18.0,18th,False,False
+502,Copenhagen 2014,Copenhagen,2014,Denmark,Basim,cliche_love_song,Denmark,23.0,74.0,9.0,9th,False,False
+503,Copenhagen 2014,Copenhagen,2014,Denmark,TWIN TWIN,moustache,France,14.0,2.0,26.0,26th,False,False
+504,Copenhagen 2014,Copenhagen,2014,Denmark,Ruth Lorenzo,dancing_in_the_rain,Spain,19.0,74.0,10.0,10th,False,False
+505,Copenhagen 2014,Copenhagen,2014,Denmark,The Common Linnets,calm_after_the_storm,Netherlands,24.0,238.0,2.0,2nd,False,False
+506,Copenhagen 2014,Copenhagen,2014,Denmark,Mariya Yaremchuk,tick_-_tock,Ukraine,1.0,113.0,6.0,6th,False,False
+507,Copenhagen 2014,Copenhagen,2014,Denmark,Valentina Monetta,maybe_(forse),San Marino,25.0,14.0,24.0,24th,False,False
+508,Copenhagen 2014,Copenhagen,2014,Denmark,Sergej Ćetković,moj_svijet,Montenegro,8.0,37.0,19.0,19th,False,False
+509,Copenhagen 2014,Copenhagen,2014,Denmark,András Kállay-Saunders,running,Hungary,21.0,143.0,5.0,5th,False,False
+510,Copenhagen 2014,Copenhagen,2014,Denmark,Aram MP3,not_alone,Armenia,7.0,174.0,4.0,4th,False,False
+511,Copenhagen 2014,Copenhagen,2014,Denmark,Dilara Kazimova,start_a_fire,Azerbaijan,3.0,33.0,22.0,22nd,False,False
+512,Copenhagen 2014,Copenhagen,2014,Denmark,Tolmachevy Sisters,shine,Russia,15.0,89.0,7.0,7th,False,False
+513,Copenhagen 2014,Copenhagen,2014,Denmark,Pollapönk,no_prejudice,Iceland,4.0,58.0,15.0,15th,False,False
+514,Copenhagen 2014,Copenhagen,2014,Denmark,Sanna Nielsen,undo,Sweden,13.0,218.0,3.0,3rd,False,False
+515,Copenhagen 2014,Copenhagen,2014,Denmark,Freaky Fortune feat. RiskyKidd,rise_up,Greece,10.0,35.0,20.0,20th,False,False
+516,Copenhagen 2014,Copenhagen,2014,Denmark,Sebalter,hunter_of_stars,Switzerland,20.0,64.0,13.0,13th,False,False
+517,Copenhagen 2014,Copenhagen,2014,Denmark,Teo,cheesecake,Belarus,2.0,43.0,16.0,16th,False,False
+518,Copenhagen 2014,Copenhagen,2014,Denmark,Tinkara Kovač,round_and_round,Slovenia,17.0,9.0,25.0,25th,False,False
+519,Copenhagen 2014,Copenhagen,2014,Denmark,Paula Seling & OVI,miracle,Romania,6.0,72.0,12.0,12th,False,False
+520,Copenhagen 2014,Copenhagen,2014,Denmark,Softengine,something_better,Finland,18.0,72.0,11.0,11th,False,False
+521,Copenhagen 2014,Copenhagen,2014,Denmark,Firelight,coming_home,Malta,22.0,32.0,23.0,23rd,False,False
+522,Copenhagen 2014,Copenhagen,2014,Denmark,Donatan & Cleo,my_słowianie_-_we_are_slavic,Poland,9.0,62.0,14.0,14th,False,False
+523,Copenhagen 2014,Copenhagen,2014,Denmark,Conchita Wurst,rise_like_a_phoenix,Austria,11.0,290.0,1.0,1st,False,True
+524,Copenhagen 2014,Copenhagen,2014,Denmark,Carl Espen,silent_storm,Norway,5.0,88.0,8.0,8th,False,False
+558,Malmö 2013,Malmö,2013,Sweden,Dorians,lonely_planet,Armenia,12.0,41.0,18.0,18th,False,False
+559,Malmö 2013,Malmö,2013,Sweden,Anouk,birds,Netherlands,13.0,114.0,9.0,9th,False,False
+560,Malmö 2013,Malmö,2013,Sweden,Roberto Bellarosa,love_kills,Belgium,6.0,71.0,12.0,12th,False,False
+561,Malmö 2013,Malmö,2013,Sweden,ByeAlex,kedvesem_(zoohacker_remix),Hungary,17.0,84.0,10.0,10th,False,False
+562,Malmö 2013,Malmö,2013,Sweden,Krista Siegfrids,marry_me,Finland,4.0,13.0,24.0,24th,False,False
+563,Malmö 2013,Malmö,2013,Sweden,Zlata Ognevich,gravity,Ukraine,22.0,214.0,3.0,3rd,False,False
+564,Malmö 2013,Malmö,2013,Sweden,Dina Garipova,what_if,Russia,10.0,174.0,5.0,5th,False,False
+565,Malmö 2013,Malmö,2013,Sweden,Cezar,it's_my_life,Romania,14.0,65.0,13.0,13th,False,False
+566,Malmö 2013,Malmö,2013,Sweden,Nodi Tatishvili & Sophie Gelovani,waterfall,Georgia,25.0,50.0,15.0,15th,False,False
+567,Malmö 2013,Malmö,2013,Sweden,Farid Mammadov,hold_me,Azerbaijan,20.0,234.0,2.0,2nd,False,False
+568,Malmö 2013,Malmö,2013,Sweden,Ryan Dolan,only_love_survives,Ireland,26.0,5.0,26.0,26th,False,False
+569,Malmö 2013,Malmö,2013,Sweden,Aliona Moon,o_mie,Moldova,3.0,71.0,11.0,11th,False,False
+570,Malmö 2013,Malmö,2013,Sweden,Margaret Berger,i_feed_you_my_love,Norway,24.0,191.0,4.0,4th,False,False
+571,Malmö 2013,Malmö,2013,Sweden,Birgit,et_uus_saaks_alguse,Estonia,7.0,19.0,20.0,20th,False,False
+572,Malmö 2013,Malmö,2013,Sweden,Alyona Lanskaya,solayoh,Belarus,8.0,48.0,16.0,16th,False,False
+573,Malmö 2013,Malmö,2013,Sweden,Gianluca,tomorrow,Malta,9.0,120.0,8.0,8th,False,False
+574,Malmö 2013,Malmö,2013,Sweden,Andrius Pojavis,something,Lithuania,2.0,17.0,22.0,22nd,False,False
+575,Malmö 2013,Malmö,2013,Sweden,Eythor Ingi,ég_á_líf,Iceland,19.0,47.0,17.0,17th,False,False
+576,Malmö 2013,Malmö,2013,Sweden,Koza Mostra feat. Agathon Iakovidis,alcohol_is_free,Greece,21.0,152.0,6.0,6th,False,False
+577,Malmö 2013,Malmö,2013,Sweden,Emmelie de Forest,only_teardrops,Denmark,18.0,281.0,1.0,1st,False,True
+578,Malmö 2013,Malmö,2013,Sweden,ESDM,contigo_hasta_el_final_(with_you_until_the_end),Spain,5.0,8.0,25.0,25th,False,False
+579,Malmö 2013,Malmö,2013,Sweden,Marco Mengoni,l'essenziale,Italy,23.0,126.0,7.0,7th,False,False
+580,Malmö 2013,Malmö,2013,Sweden,Bonnie Tyler,believe_in_me,United Kingdom,15.0,23.0,19.0,19th,False,False
+581,Malmö 2013,Malmö,2013,Sweden,Robin Stjernberg,you,Sweden,16.0,62.0,14.0,14th,False,False
+582,Malmö 2013,Malmö,2013,Sweden,Cascada,glorious,Germany,11.0,18.0,21.0,21st,False,False
+583,Malmö 2013,Malmö,2013,Sweden,Amandine Bourgeois,l'enfer_et_moi,France,1.0,14.0,23.0,23rd,False,False
+620,Baku 2012,Baku,2012,Azerbaijan,Anggun,echo_(you_and_i),France,9.0,21.0,22.0,22nd,False,False
+621,Baku 2012,Baku,2012,Azerbaijan,Sabina Babayeva,when_the_music_dies,Azerbaijan,13.0,150.0,4.0,4th,False,False
+622,Baku 2012,Baku,2012,Azerbaijan,Engelbert Humperdinck,love_will_set_you_free,United Kingdom,1.0,12.0,25.0,25th,False,False
+623,Baku 2012,Baku,2012,Azerbaijan,Nina Zilli,l'amore_è_femmina_(out_of_love),Italy,10.0,101.0,9.0,9th,False,False
+624,Baku 2012,Baku,2012,Azerbaijan,Pastora Soler,quédate_conmigo_(stay_with_me),Spain,19.0,97.0,10.0,10th,False,False
+625,Baku 2012,Baku,2012,Azerbaijan,Roman Lob,standing_still,Germany,20.0,110.0,8.0,8th,False,False
+626,Baku 2012,Baku,2012,Azerbaijan,Maya Sar,korake_ti_znam,Bosnia & Herzegovina,5.0,55.0,18.0,18th,False,False
+627,Baku 2012,Baku,2012,Azerbaijan,Donny Montell,love_is_blind,Lithuania,4.0,70.0,14.0,14th,False,False
+628,Baku 2012,Baku,2012,Azerbaijan,Gaitana,be_my_guest,Ukraine,25.0,65.0,15.0,15th,False,False
+629,Baku 2012,Baku,2012,Azerbaijan,Tooji,stay,Norway,12.0,7.0,26.0,26th,False,False
+630,Baku 2012,Baku,2012,Azerbaijan,Kurt Calleja,this_is_the_night,Malta,21.0,41.0,21.0,21st,False,False
+631,Baku 2012,Baku,2012,Azerbaijan,Can Bonomo,love_me_back,Turkey,18.0,112.0,7.0,7th,False,False
+632,Baku 2012,Baku,2012,Azerbaijan,Ott Lepland,kuula,Estonia,11.0,120.0,6.0,6th,False,False
+633,Baku 2012,Baku,2012,Azerbaijan,Kaliopi,crno_i_belo,North Macedonia,22.0,71.0,13.0,13th,False,False
+634,Baku 2012,Baku,2012,Azerbaijan,Loreen,euphoria,Sweden,17.0,372.0,1.0,1st,False,True
+635,Baku 2012,Baku,2012,Azerbaijan,Željko Joksimović,nije_ljubav_stvar,Serbia,24.0,214.0,3.0,3rd,False,False
+636,Baku 2012,Baku,2012,Azerbaijan,Compact Disco,sound_of_our_hearts,Hungary,2.0,19.0,24.0,24th,False,False
+637,Baku 2012,Baku,2012,Azerbaijan,Jedward,waterline,Ireland,23.0,46.0,19.0,19th,False,False
+638,Baku 2012,Baku,2012,Azerbaijan,Eleftheria Eleftheriou,aphrodisiac,Greece,16.0,64.0,17.0,17th,False,False
+639,Baku 2012,Baku,2012,Azerbaijan,Buranovskiye Babushki,party_for_everybody,Russia,6.0,259.0,2.0,2nd,False,False
+640,Baku 2012,Baku,2012,Azerbaijan,Soluna Samay,should've_known_better,Denmark,15.0,21.0,23.0,23rd,False,False
+641,Baku 2012,Baku,2012,Azerbaijan,Rona Nishliu,suus,Albania,3.0,146.0,5.0,5th,False,False
+642,Baku 2012,Baku,2012,Azerbaijan,Mandinga,zaleilah,Romania,14.0,71.0,12.0,12th,False,False
+643,Baku 2012,Baku,2012,Azerbaijan,Ivi Adamou,la_la_love,Cyprus,8.0,65.0,16.0,16th,False,False
+644,Baku 2012,Baku,2012,Azerbaijan,Pasha Parfeny,lăutar,Moldova,26.0,81.0,11.0,11th,False,False
+645,Baku 2012,Baku,2012,Azerbaijan,Greta Salóme & Jónsi,never_forget,Iceland,7.0,46.0,20.0,20th,False,False
+684,Düsseldorf 2011,Düsseldorf,2011,Germany,Lucía Pérez,que_me_quiten_lo_bailao_-_they_can't_take_the_fun_away_from_me,Spain,22.0,50.0,23.0,23rd,False,False
+685,Düsseldorf 2011,Düsseldorf,2011,Germany,Amaury Vassili,sognu,France,11.0,82.0,15.0,15th,False,False
+686,Düsseldorf 2011,Düsseldorf,2011,Germany,Blue,i_can,United Kingdom,14.0,100.0,11.0,11th,False,False
+687,Düsseldorf 2011,Düsseldorf,2011,Germany,Raphael Gualazzi,madness_of_love,Italy,12.0,189.0,2.0,2nd,False,False
+688,Düsseldorf 2011,Düsseldorf,2011,Germany,Lena,taken_by_a_stranger,Germany,16.0,107.0,10.0,10th,False,False
+689,Düsseldorf 2011,Düsseldorf,2011,Germany,Nadine Beiler,the_secret_is_love,Austria,18.0,64.0,18.0,18th,False,False
+690,Düsseldorf 2011,Düsseldorf,2011,Germany,Dino Merlin,love_in_rewind,Bosnia & Herzegovina,2.0,125.0,6.0,6th,False,False
+691,Düsseldorf 2011,Düsseldorf,2011,Germany,Zdob și Zdub,so_lucky,Moldova,15.0,97.0,12.0,12th,False,False
+692,Düsseldorf 2011,Düsseldorf,2011,Germany,Eric Saade,popular,Sweden,7.0,185.0,3.0,3rd,False,False
+693,Düsseldorf 2011,Düsseldorf,2011,Germany,Mika Newton,angel,Ukraine,23.0,159.0,4.0,4th,False,False
+694,Düsseldorf 2011,Düsseldorf,2011,Germany,A Friend In London,new_tomorrow,Denmark,3.0,134.0,5.0,5th,False,False
+695,Düsseldorf 2011,Düsseldorf,2011,Germany,Getter Jaani,rockefeller_street,Estonia,8.0,44.0,24.0,24th,False,False
+696,Düsseldorf 2011,Düsseldorf,2011,Germany,Jedward,lipstick,Ireland,6.0,119.0,8.0,8th,False,False
+697,Düsseldorf 2011,Düsseldorf,2011,Germany,Hotel FM,change,Romania,17.0,77.0,17.0,17th,False,False
+698,Düsseldorf 2011,Düsseldorf,2011,Germany,Maja Keuc,no_one,Slovenia,20.0,96.0,13.0,13th,False,False
+699,Düsseldorf 2011,Düsseldorf,2011,Germany,Paradise Oskar,da_da_dam,Finland,1.0,57.0,21.0,21st,False,False
+700,Düsseldorf 2011,Düsseldorf,2011,Germany,Eldrine,one_more_day,Georgia,25.0,110.0,9.0,9th,False,False
+701,Düsseldorf 2011,Düsseldorf,2011,Germany,Loucas Yiorkas feat. Stereo Mike,watch_my_dance,Greece,9.0,120.0,7.0,7th,False,False
+702,Düsseldorf 2011,Düsseldorf,2011,Germany,Sjonni's Friends,coming_home,Iceland,21.0,61.0,20.0,20th,False,False
+703,Düsseldorf 2011,Düsseldorf,2011,Germany,Alexej Vorobjov,get_you,Russia,10.0,77.0,16.0,16th,False,False
+704,Düsseldorf 2011,Düsseldorf,2011,Germany,Nina,čaroban,Serbia,24.0,85.0,14.0,14th,False,False
+705,Düsseldorf 2011,Düsseldorf,2011,Germany,Anna Rossinelli,in_love_for_a_while,Switzerland,13.0,19.0,25.0,25th,False,False
+706,Düsseldorf 2011,Düsseldorf,2011,Germany,Ell/Nikki,running_scared,Azerbaijan,19.0,221.0,1.0,1st,False,True
+707,Düsseldorf 2011,Düsseldorf,2011,Germany,Kati Wolf,what_about_my_dreams?,Hungary,5.0,53.0,22.0,22nd,False,False
+708,Düsseldorf 2011,Düsseldorf,2011,Germany,Evelina Sašenko,c'est_ma_vie,Lithuania,4.0,63.0,19.0,19th,False,False
+743,Oslo 2010,Oslo,2010,Norway,Eva Rivas,apricot_stone,Armenia,21.0,141.0,7.0,7th,False,False
+744,Oslo 2010,Oslo,2010,Norway,Harel Skaat,milim,Israel,24.0,71.0,14.0,14th,False,False
+745,Oslo 2010,Oslo,2010,Norway,Paula Seling & Ovi,playing_with_fire,Romania,19.0,162.0,3.0,3rd,False,False
+746,Oslo 2010,Oslo,2010,Norway,Jon Lilygreen & The Islanders,life_looks_better_in_spring,Cyprus,5.0,27.0,21.0,21st,False,False
+747,Oslo 2010,Oslo,2010,Norway,Safura,drip_drop,Azerbaijan,1.0,145.0,5.0,5th,False,False
+748,Oslo 2010,Oslo,2010,Norway,Chanée & N'evergreen,in_a_moment_like_this,Denmark,25.0,149.0,4.0,4th,False,False
+749,Oslo 2010,Oslo,2010,Norway,Alyosha,sweet_people,Ukraine,17.0,108.0,10.0,10th,False,False
+750,Oslo 2010,Oslo,2010,Norway,Niamh Kavanagh,it's_for_you,Ireland,10.0,25.0,23.0,23rd,False,False
+751,Oslo 2010,Oslo,2010,Norway,maNga,we_could_be_the_same,Turkey,14.0,170.0,2.0,2nd,False,False
+752,Oslo 2010,Oslo,2010,Norway,Sofia Nizharadze ,shine,Georgia,13.0,136.0,9.0,9th,False,False
+753,Oslo 2010,Oslo,2010,Norway,Juliana Pasha,it's_all_about_you,Albania,15.0,62.0,16.0,16th,False,False
+754,Oslo 2010,Oslo,2010,Norway,Tom Dice,me_and_my_guitar,Belgium,7.0,143.0,6.0,6th,False,False
+755,Oslo 2010,Oslo,2010,Norway,3+2,butterflies,Belarus,9.0,18.0,24.0,24th,False,False
+756,Oslo 2010,Oslo,2010,Norway,Filipa Azevedo,há_dias_assim,Portugal,23.0,43.0,18.0,18th,False,False
+757,Oslo 2010,Oslo,2010,Norway,Sunstroke Project & Olia Tira,run_away,Moldova,4.0,27.0,22.0,22nd,False,False
+758,Oslo 2010,Oslo,2010,Norway,Hera Björk,je_ne_sais_quoi,Iceland,16.0,41.0,19.0,19th,False,False
+759,Oslo 2010,Oslo,2010,Norway,Vukašin Brajić,thunder_and_lightning,Bosnia & Herzegovina,6.0,51.0,17.0,17th,False,False
+760,Oslo 2010,Oslo,2010,Norway,Giorgos Alkaios & Friends,opa,Greece,11.0,140.0,8.0,8th,False,False
+761,Oslo 2010,Oslo,2010,Norway,Peter Nalitch & Friends,lost_and_forgotten,Russia,20.0,90.0,11.0,11th,False,False
+762,Oslo 2010,Oslo,2010,Norway,Milan Stanković,ovo_je_balkan,Serbia,8.0,72.0,13.0,13th,False,False
+763,Oslo 2010,Oslo,2010,Norway,Josh,that_sounds_good_to_me,United Kingdom,12.0,10.0,25.0,25th,False,False
+764,Oslo 2010,Oslo,2010,Norway,Jessy Matador,allez_ola_olé,France,18.0,82.0,12.0,12th,False,False
+765,Oslo 2010,Oslo,2010,Norway,Daniel Diges,algo_pequeñito_(something_tiny),Spain,2.0,68.0,15.0,15th,False,False
+766,Oslo 2010,Oslo,2010,Norway,Lena,satellite,Germany,22.0,246.0,1.0,1st,False,True
+767,Oslo 2010,Oslo,2010,Norway,Didrik Solli-Tangen,my_heart_is_yours,Norway,3.0,35.0,20.0,20th,False,False
+805,Moscow 2009,Moscow,2009,Russia,Patricia Kaas,et_s'il_fallait_le_faire,France,3.0,107.0,8.0,8th,False,False
+806,Moscow 2009,Moscow,2009,Russia,Alex Swings Oscar Sings!,miss_kiss_kiss_bang,Germany,17.0,35.0,20.0,20th,False,False
+807,Moscow 2009,Moscow,2009,Russia,Jade Ewen,it's_my_time,United Kingdom,23.0,173.0,5.0,5th,False,False
+808,Moscow 2009,Moscow,2009,Russia,Soraya,la_noche_es_para_mí_(the_night_is_for_me),Spain,25.0,23.0,24.0,24th,False,False
+809,Moscow 2009,Moscow,2009,Russia,Anastasia Prikhodko,mamo,Russia,10.0,91.0,11.0,11th,False,False
+810,Moscow 2009,Moscow,2009,Russia,Kejsi Tola,carry_me_in_your_dreams,Albania,19.0,48.0,17.0,17th,False,False
+811,Moscow 2009,Moscow,2009,Russia,Nelly Ciobanu,hora_din_moldova,Moldova,13.0,69.0,14.0,14th,False,False
+812,Moscow 2009,Moscow,2009,Russia,Urban Symphony,rändajad,Estonia,15.0,129.0,6.0,6th,False,False
+813,Moscow 2009,Moscow,2009,Russia,Igor Cukrov feat. Andrea,lijepa_tena,Croatia,5.0,45.0,18.0,18th,False,False
+814,Moscow 2009,Moscow,2009,Russia,Sasha Son,love,Lithuania,1.0,23.0,23.0,23rd,False,False
+815,Moscow 2009,Moscow,2009,Russia,Sakis Rouvas,this_is_our_night,Greece,8.0,120.0,7.0,7th,False,False
+816,Moscow 2009,Moscow,2009,Russia,Svetlana Loboda,be_my_valentine!_(anti-crisis_girl),Ukraine,21.0,76.0,12.0,12th,False,False
+817,Moscow 2009,Moscow,2009,Russia,Alexander Rybak,fairytale,Norway,20.0,387.0,1.0,1st,False,True
+818,Moscow 2009,Moscow,2009,Russia,AySel & Arash,always,Azerbaijan,11.0,207.0,3.0,3rd,False,False
+819,Moscow 2009,Moscow,2009,Russia,Brinck,believe_again,Denmark,16.0,74.0,13.0,13th,False,False
+820,Moscow 2009,Moscow,2009,Russia,Inga & Anush,jan_jan,Armenia,9.0,92.0,10.0,10th,False,False
+821,Moscow 2009,Moscow,2009,Russia,Chiara,what_if_we,Malta,14.0,31.0,22.0,22nd,False,False
+822,Moscow 2009,Moscow,2009,Russia,Elena,the_balkan_girls,Romania,22.0,40.0,19.0,19th,False,False
+823,Moscow 2009,Moscow,2009,Russia,Hadise,düm_tek_tek,Turkey,18.0,177.0,4.0,4th,False,False
+824,Moscow 2009,Moscow,2009,Russia,Waldo's People,lose_control,Finland,24.0,22.0,25.0,25th,False,False
+825,Moscow 2009,Moscow,2009,Russia,Flor-de-lis,todas_as_ruas_do_amor,Portugal,6.0,57.0,15.0,15th,False,False
+826,Moscow 2009,Moscow,2009,Russia,Yohanna,is_it_true?,Iceland,7.0,218.0,2.0,2nd,False,False
+827,Moscow 2009,Moscow,2009,Russia,Noa & Mira Awad,there_must_be_another_way,Israel,2.0,53.0,16.0,16th,False,False
+828,Moscow 2009,Moscow,2009,Russia,Regina,bistra_voda,Bosnia & Herzegovina,12.0,106.0,9.0,9th,False,False
+829,Moscow 2009,Moscow,2009,Russia,Malena Ernman,la_voix,Sweden,4.0,33.0,21.0,21st,False,False
