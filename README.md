@@ -15,9 +15,9 @@ El proyecto está organizado de la siguiente manera:
 - **notebooks**: Directorio que contiene el cuaderno de Jupyter utilizado para la limpieza y EDA de los dataframes utilizados.
 - **datos**: Todos los dataframes base que utilizamos y los resultantes después de la limpieza.
 
-## Lenguajes y herramientas utilizados
-* Python
+## Herramientas y lenguajes utilizados
 * Tableau
+* Python
 
 ## Librerías utilizadas
 
